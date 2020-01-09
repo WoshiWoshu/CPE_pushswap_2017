@@ -25,4 +25,4 @@ rotate l_b toward the end, the last element will become the first.
 • rrr
 rra and rrb at the same time.
 
-USING : 1) Make 2) ./push_swap "2 1 3 6 5 8".
+USING : 1) cd CPE_pushswap_2017 && Make 2) ./push_swap "2 1 3 6 5 8".
